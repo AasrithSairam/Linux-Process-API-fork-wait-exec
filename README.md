@@ -45,7 +45,7 @@ int main(void)
 	      printf("The process id of parent function: %d\n",p_process_id);
 	      return 0; }
 ```
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/AasrithSairam/Linux-Process-API-fork-wait-exec/assets/139331438/99369ba7-8352-4f96-bf14-f3836f4c0beb)
 
 
@@ -98,7 +98,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/AasrithSairam/Linux-Process-API-fork-wait-exec/assets/139331438/7c09627e-26ee-488f-9ed4-c378cb253364)
 
 
@@ -163,7 +163,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/AasrithSairam/Linux-Process-API-fork-wait-exec/assets/139331438/5f1fec90-e91c-495c-98f9-426abc8f3eb5)
 
 
